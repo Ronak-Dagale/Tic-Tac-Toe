@@ -10,7 +10,7 @@ Contribute here to complete your HacktoberFest Event.
 ## Tic-Tac-Toe Game 🔥
 I am excited to welcome contributions from anyone interested in participating in Hacktoberfest 2023.
 
-Take a look at <a href="https://ronak-dagale.github.io/Tic-Tac-Toe/">clickable</a>
+Take a look at <a href="https://ronak-dagale.github.io/Tic-Tac-Toe/">click</a>
 
 
 ## About the PCCOE ACM Website Project
