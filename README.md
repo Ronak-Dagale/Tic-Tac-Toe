@@ -36,7 +36,7 @@ Hacktoberfest is a month-long celebration from October 1st - 31st sponsored by D
 Clone the project
 
 ```bash
-  git clone https://github.com/your_user_name/Restaurant_website_HacktoberFest.git
+  git clone https://github.com/your_user_name/Tic-Tac-Toe.git
 ```
 
 Create branch
